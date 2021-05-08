@@ -2,7 +2,7 @@
 
 ## Contributor: Sooyoun Lee leesu@bu.edu
 
-The purpose of this project is to compare and reproduce the C3 and C4 tumor subtypes by using the 134 tumor samples by performing noise filtering, dimensionality reduction, hierarchical clustering, subtype clustering, and gene set analysis. 
+The purpose of this project is to compare and identify the C3 and C4 tumor subtypes by using the 134 tumor samples by performing noise filtering, dimensionality reduction, hierarchical clustering, subtype clustering, and gene set analysis. 
 
 The following paper was used as a reference:  Marisa et al. Gene Expression Classification of Colon Cancer into Molecular Subtypes: Characterization, Validation, and Prognostic Value. PLoS Medicine, May 2013. PMID: 23700391
 
